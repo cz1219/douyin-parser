@@ -38,7 +38,7 @@
 ### 智能链接识别
 应用支持从复杂文本中自动识别抖音链接，例如：
 ```
-@0.53 复制打开抖音，看看【雨+雪的作品】你好呀！我叫朵莉亚~ # 王者荣耀# 朵莉亚# 朵... https://v.douyin.com/DoJ9VZKwaBE/ P@X.mD KjC:/ 12/08
+@1.25 复制打开抖音，看看【小明的日常】今天天气真好，适合出去走走~ # 日常分享# 生活记录# 阳光正好 https://v.douyin.com/ABC123DEF456/ P@Y.nM LmN:/ 11/30
 ```
 
 ### 下载管理
@@ -93,7 +93,9 @@ A: 应用仅解析公开视频信息，不会获取用户隐私数据，所有�
 
 如有问题或建议，请通过以下方式联系：
 
-- GitHub Issues: [提交问题](https://github.com/yourusername/douyin-parser/issues)
+- **微信**: Xiao12Bo19
+- **邮箱**: xc041219@163.com
+- **GitHub Issues**: [提交问题](https://github.com/cz1219/douyin-parser/issues)
 
 ## 版权信息
 
